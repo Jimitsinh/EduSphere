@@ -1,0 +1,182 @@
+[{
+  "_id": {
+    "$oid": "6a21be817e5bcf5799f2f4d4"
+  },
+  "title": "Compiler Design",
+  "description": "Learn to build professional compilers, lexers, AST engines, and target code generators.",
+  "modules": [
+    {
+      "title": "Module 1: Overview",
+      "lessons": [
+        {
+          "title": "Introduction to Compilers",
+          "content": "A compiler is a specialized system program that translates source code written in a high-level language into machine code or intermediate representations. It consists of two main divisions: the Front-End (lexical analysis, parsing, semantic verification) and the Back-End (optimization, code generation). Understanding compilation theory provides vital insight into memory footprints and program optimization.",
+          "durationMins": 15,
+          "videoUrl": "https://www.youtube.com/embed/Qkwj65l_96I",
+          "completedBy": [],
+          "_id": {
+            "$oid": "6a21be817e5bcf5799f2f4d6"
+          }
+        },
+        {
+          "title": "Core concepts of Compilation",
+          "content": "The translation process relies on formal grammars. We represent source structures using Regular Expressions (for identifiers and literals) and Context-Free Grammars (for statement nests and arithmetic). Symbol tables coordinate identifiers and scopes during compilation phases.",
+          "durationMins": 20,
+          "completedBy": [],
+          "_id": {
+            "$oid": "6a21be817e5bcf5799f2f4d7"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "6a21be817e5bcf5799f2f4d5"
+      }
+    },
+    {
+      "title": "Module 2: Practice",
+      "lessons": [
+        {
+          "title": "Syntax Analysis & DFAs",
+          "content": "Lexical analyzers utilize Deterministic Finite Automata (DFAs) to group source character matrices into Lexeme sequences. If a stream matches predefined rules, it generates tokens. Otherwise, lexer warnings raise syntax exceptions. Practicing tree generation strengthens algorithmic scope comprehension.",
+          "durationMins": 25,
+          "completedBy": [],
+          "_id": {
+            "$oid": "6a21be817e5bcf5799f2f4d9"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "6a21be817e5bcf5799f2f4d8"
+      }
+    }
+  ],
+  "enrolledStudents": [],
+  "createdAt": {
+    "$date": "2026-06-04T18:05:53.173Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-04T18:05:53.173Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a21be817e5bcf5799f2f4da"
+  },
+  "title": "DBMS",
+  "description": "Master database schemas, query optimization, normal forms, and transaction ACID parameters.",
+  "modules": [
+    {
+      "title": "Module 1: Overview",
+      "lessons": [
+        {
+          "title": "Introduction to Databases",
+          "content": "Database Management Systems (DBMS) allow users to store, query, and modify structured tables. Relational systems represent entities in grids called relations. By structuring indexes, users can speed query evaluation dramatically.",
+          "durationMins": 12,
+          "completedBy": [],
+          "_id": {
+            "$oid": "6a21be817e5bcf5799f2f4dc"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "6a21be817e5bcf5799f2f4db"
+      }
+    },
+    {
+      "title": "Module 2: Core concepts",
+      "lessons": [
+        {
+          "title": "Entity-Relationship Diagrams",
+          "content": "Entity-Relationship Models capture real-world constraints via rectangles (entities), ovals (attributes), and diamonds (relationships). Drawing clear schemas avoids data modeling errors down the line.",
+          "durationMins": 18,
+          "completedBy": [],
+          "_id": {
+            "$oid": "6a21be817e5bcf5799f2f4de"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "6a21be817e5bcf5799f2f4dd"
+      }
+    },
+    {
+      "title": "Module 3: Practice",
+      "lessons": [
+        {
+          "title": "1NF, 2NF, and 3NF Normalization",
+          "content": "Database Normalization is the systematic optimization of tables to restrict data duplication. 1NF guarantees scalar elements. 2NF guarantees that non-key elements depend entirely on the composite keys. 3NF removes transitive dependencies to protect referential integrity.",
+          "durationMins": 30,
+          "videoUrl": "https://www.youtube.com/embed/5zsDguxi9L8",
+          "completedBy": [],
+          "_id": {
+            "$oid": "6a21be817e5bcf5799f2f4e0"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "6a21be817e5bcf5799f2f4df"
+      }
+    }
+  ],
+  "enrolledStudents": [],
+  "createdAt": {
+    "$date": "2026-06-04T18:05:53.174Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-04T18:05:53.174Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a21be817e5bcf5799f2f4e1"
+  },
+  "title": "Operating Systems",
+  "description": "Study kernel loops, process thread context-switches, CPU schedules, and virtual memory segments.",
+  "modules": [
+    {
+      "title": "Module 1: Overview",
+      "lessons": [
+        {
+          "title": "Monolithic vs Microkernel",
+          "content": "A kernel sits directly above the hardware layer. Monolithic kernels (like Linux) embed virtual file systems, device drivers, and schedulers inside a unified space. Microkernels (like Mach) push drivers and file systems to user-space, improving system modularity.",
+          "durationMins": 15,
+          "completedBy": [],
+          "_id": {
+            "$oid": "6a21be817e5bcf5799f2f4e3"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "6a21be817e5bcf5799f2f4e2"
+      }
+    },
+    {
+      "title": "Module 2: Core concepts",
+      "lessons": [
+        {
+          "title": "CPU Scheduling Loops",
+          "content": "CPU schedulers allocate execution threads. Shortest Job First minimizes average wait indexes but risks starvation. Round Robin cycles processes using a fixed time quantum to provide highly interactive multitasking platforms.",
+          "durationMins": 22,
+          "videoUrl": "https://www.youtube.com/embed/zFDKWpZg-Jg",
+          "completedBy": [],
+          "_id": {
+            "$oid": "6a21be817e5bcf5799f2f4e5"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "6a21be817e5bcf5799f2f4e4"
+      }
+    }
+  ],
+  "enrolledStudents": [],
+  "createdAt": {
+    "$date": "2026-06-04T18:05:53.174Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-04T18:05:53.174Z"
+  },
+  "__v": 0
+}]

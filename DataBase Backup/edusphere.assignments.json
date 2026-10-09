@@ -1,0 +1,51 @@
+[{
+  "_id": {
+    "$oid": "6a21be817e5bcf5799f2f4f4"
+  },
+  "title": "Assignment 3 — DBMS",
+  "courseName": "DBMS",
+  "description": "Write SQL queries to find all students who have scored above 90% in Compiler Design and list their advisors. Ensure you use nested joins for optimization.",
+  "dueDateString": "Due in 2 days",
+  "submissions": [],
+  "createdAt": {
+    "$date": "2026-06-04T18:05:53.200Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-04T18:05:53.200Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a21be817e5bcf5799f2f4f5"
+  },
+  "title": "Lab — Operating Systems",
+  "courseName": "Operating Systems",
+  "description": "Implement a Round Robin CPU scheduling simulation in C or JavaScript. Your program should take a set of processes, arrival times, and burst times, and calculate average wait time and turnaround time.",
+  "dueDateString": "Due today",
+  "submissions": [],
+  "createdAt": {
+    "$date": "2026-06-04T18:05:53.200Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-04T18:05:53.200Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a21be817e5bcf5799f2f4f6"
+  },
+  "title": "Quiz 4 — Compiler Design",
+  "courseName": "Compiler Design",
+  "description": "Formulate a regular expression that recognizes floating-point numbers in C syntax (e.g. 1.23, .45, 6.e-2). Draw the corresponding Transition Diagram.",
+  "dueDateString": "This week",
+  "submissions": [],
+  "createdAt": {
+    "$date": "2026-06-04T18:05:53.200Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-04T18:05:53.200Z"
+  },
+  "__v": 0
+}]

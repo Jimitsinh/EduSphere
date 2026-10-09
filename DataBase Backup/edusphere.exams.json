@@ -1,0 +1,78 @@
+[{
+  "_id": {
+    "$oid": "6a21be817e5bcf5799f2f4ee"
+  },
+  "title": "Advanced Macroeconomics IV",
+  "courseName": "Economics",
+  "durationMins": 45,
+  "isProctored": true,
+  "questions": [
+    {
+      "questionText": "Evaluate the dynamic mechanisms of monetary policy transmissions, real business cycles, and institutional frameworks within advanced Keynesian macroeconomic models.",
+      "marks": 10,
+      "options": [],
+      "_id": {
+        "$oid": "6a21be817e5bcf5799f2f4ef"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2026-06-04T18:05:53.189Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-04T18:05:53.189Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a21be817e5bcf5799f2f4ec"
+  },
+  "title": "DBMS — Quiz 2",
+  "courseName": "DBMS",
+  "durationMins": 20,
+  "isProctored": false,
+  "questions": [
+    {
+      "questionText": "Explain the ACID properties of a database transaction. Provide a brief real-world scenario where violating Isolation causes a concurrency anomaly.",
+      "marks": 10,
+      "options": [],
+      "_id": {
+        "$oid": "6a21be817e5bcf5799f2f4ed"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2026-06-04T18:05:53.189Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-04T18:05:53.189Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a21be817e5bcf5799f2f4ea"
+  },
+  "title": "System Architecture — Midterm",
+  "courseName": "Operating Systems",
+  "durationMins": 45,
+  "isProctored": true,
+  "questions": [
+    {
+      "questionText": "Explain how collaborative filtering generates adaptive learning paths compared to static content delivery. Briefly discuss algorithmic complexity and practical trade-offs.",
+      "marks": 10,
+      "options": [],
+      "_id": {
+        "$oid": "6a21be817e5bcf5799f2f4eb"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2026-06-04T18:05:53.189Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-04T18:05:53.189Z"
+  },
+  "__v": 0
+}]

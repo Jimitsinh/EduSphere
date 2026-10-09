@@ -1,0 +1,1421 @@
+[{
+  "_id": {
+    "$oid": "6a17e1cc5b903d9e9e991709"
+  },
+  "student": {
+    "$oid": "6a17e1bc5b903d9e9e99168e"
+  },
+  "examTitle": "System Architecture — Midterm",
+  "violations": [
+    {
+      "type": "no_face",
+      "description": "No active student face captured in the camera view.",
+      "_id": {
+        "$oid": "6a17e1dc5b903d9e9e99170f"
+      },
+      "timestamp": {
+        "$date": "2026-05-28T06:34:04.603Z"
+      }
+    },
+    {
+      "type": "no_face",
+      "description": "No active student face captured in the camera view.",
+      "_id": {
+        "$oid": "6a17e1dd5b903d9e9e991713"
+      },
+      "timestamp": {
+        "$date": "2026-05-28T06:34:05.003Z"
+      }
+    },
+    {
+      "type": "no_face",
+      "description": "No active student face captured in the camera view.",
+      "_id": {
+        "$oid": "6a17e1de5b903d9e9e991718"
+      },
+      "timestamp": {
+        "$date": "2026-05-28T06:34:06.489Z"
+      }
+    },
+    {
+      "type": "no_face",
+      "description": "No active student face captured in the camera view.",
+      "_id": {
+        "$oid": "6a17e1e25b903d9e9e99171e"
+      },
+      "timestamp": {
+        "$date": "2026-05-28T06:34:10.995Z"
+      }
+    },
+    {
+      "type": "no_face",
+      "description": "No active student face captured in the camera view.",
+      "_id": {
+        "$oid": "6a17e1e55b903d9e9e991725"
+      },
+      "timestamp": {
+        "$date": "2026-05-28T06:34:13.993Z"
+      }
+    },
+    {
+      "type": "no_face",
+      "description": "No active student face captured in the camera view.",
+      "_id": {
+        "$oid": "6a17e1e85b903d9e9e99172d"
+      },
+      "timestamp": {
+        "$date": "2026-05-28T06:34:16.994Z"
+      }
+    },
+    {
+      "type": "no_face",
+      "description": "No active student face captured in the camera view.",
+      "_id": {
+        "$oid": "6a17e1f65b903d9e9e991736"
+      },
+      "timestamp": {
+        "$date": "2026-05-28T06:34:30.502Z"
+      }
+    },
+    {
+      "type": "no_face",
+      "description": "No active student face captured in the camera view.",
+      "_id": {
+        "$oid": "6a17e1fa5b903d9e9e991740"
+      },
+      "timestamp": {
+        "$date": "2026-05-28T06:34:34.992Z"
+      }
+    },
+    {
+      "type": "tab_switch",
+      "description": "Student navigated away from the exam application.",
+      "_id": {
+        "$oid": "6a17e2e15b903d9e9e991930"
+      },
+      "timestamp": {
+        "$date": "2026-05-28T06:38:25.090Z"
+      }
+    }
+  ],
+  "violationCount": 9,
+  "averageAttentionScore": 0,
+  "isFinished": false,
+  "createdAt": {
+    "$date": "2026-05-28T06:33:48.081Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-28T06:38:25.092Z"
+  },
+  "__v": 9
+},
+{
+  "_id": {
+    "$oid": "6a17e2035b903d9e9e99174f"
+  },
+  "student": {
+    "$oid": "6a17e1bc5b903d9e9e99168e"
+  },
+  "examTitle": "DBMS — Quiz 2",
+  "violations": [
+    {
+      "type": "no_face",
+      "description": "No active student face captured in the camera view.",
+      "_id": {
+        "$oid": "6a17e2095b903d9e9e991755"
+      },
+      "timestamp": {
+        "$date": "2026-05-28T06:34:49.370Z"
+      }
+    },
+    {
+      "type": "no_face",
+      "description": "No active student face captured in the camera view.",
+      "_id": {
+        "$oid": "6a17e20c5b903d9e9e991759"
+      },
+      "timestamp": {
+        "$date": "2026-05-28T06:34:52.342Z"
+      }
+    },
+    {
+      "type": "no_face",
+      "description": "No active student face captured in the camera view.",
+      "_id": {
+        "$oid": "6a17e20d5b903d9e9e99175e"
+      },
+      "timestamp": {
+        "$date": "2026-05-28T06:34:53.841Z"
+      }
+    },
+    {
+      "type": "tab_switch",
+      "description": "Student navigated away from the exam application.",
+      "_id": {
+        "$oid": "6a17e2155b903d9e9e991764"
+      },
+      "timestamp": {
+        "$date": "2026-05-28T06:35:01.046Z"
+      }
+    }
+  ],
+  "violationCount": 4,
+  "averageAttentionScore": 28,
+  "isFinished": false,
+  "createdAt": {
+    "$date": "2026-05-28T06:34:43.573Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-28T06:35:01.047Z"
+  },
+  "__v": 4
+},
+{
+  "_id": {
+    "$oid": "6a17e3055b903d9e9e9919aa"
+  },
+  "student": {
+    "$oid": "6a17e3005b903d9e9e991955"
+  },
+  "examTitle": "System Architecture — Midterm",
+  "violations": [
+    {
+      "type": "no_face",
+      "description": "No active student face captured in the camera view.",
+      "_id": {
+        "$oid": "6a17e30f5b903d9e9e9919b0"
+      },
+      "timestamp": {
+        "$date": "2026-05-28T06:39:11.885Z"
+      }
+    },
+    {
+      "type": "multiple_faces",
+      "description": "Multiple subjects detected within exam webcam capture.",
+      "_id": {
+        "$oid": "6a17e3275b903d9e9e9919b4"
+      },
+      "timestamp": {
+        "$date": "2026-05-28T06:39:35.900Z"
+      }
+    },
+    {
+      "type": "multiple_faces",
+      "description": "Multiple subjects detected within exam webcam capture.",
+      "_id": {
+        "$oid": "6a17e3295b903d9e9e9919b9"
+      },
+      "timestamp": {
+        "$date": "2026-05-28T06:39:37.409Z"
+      }
+    }
+  ],
+  "violationCount": 3,
+  "averageAttentionScore": 46,
+  "isFinished": false,
+  "createdAt": {
+    "$date": "2026-05-28T06:39:01.141Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-28T06:39:37.409Z"
+  },
+  "__v": 3
+},
+{
+  "_id": {
+    "$oid": "6a17e4875b903d9e9e991a55"
+  },
+  "student": {
+    "$oid": "6a17e4835b903d9e9e9919dc"
+  },
+  "examTitle": "System Architecture — Midterm",
+  "violations": [
+    {
+      "type": "multiple_faces",
+      "description": "Multiple subjects detected within exam webcam capture.",
+      "_id": {
+        "$oid": "6a17e4a85b903d9e9e991a5b"
+      },
+      "timestamp": {
+        "$date": "2026-05-28T06:46:00.281Z"
+      }
+    }
+  ],
+  "violationCount": 1,
+  "averageAttentionScore": 82,
+  "isFinished": false,
+  "createdAt": {
+    "$date": "2026-05-28T06:45:27.299Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-28T06:46:00.281Z"
+  },
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "6a191342564d7d8ca6e9589b"
+  },
+  "student": {
+    "$oid": "6a18fb5eba1f77977735fc98"
+  },
+  "examTitle": "Advanced Macroeconomics IV",
+  "violations": [
+    {
+      "type": "multiple_faces",
+      "description": "Multiple subjects detected within exam webcam capture.",
+      "_id": {
+        "$oid": "6a191350564d7d8ca6e958a2"
+      },
+      "timestamp": {
+        "$date": "2026-05-29T04:17:20.168Z"
+      }
+    },
+    {
+      "type": "multiple_faces",
+      "description": "Multiple subjects detected within exam webcam capture.",
+      "_id": {
+        "$oid": "6a191350564d7d8ca6e958a4"
+      },
+      "timestamp": {
+        "$date": "2026-05-29T04:17:20.175Z"
+      }
+    },
+    {
+      "type": "multiple_faces",
+      "description": "Multiple subjects detected within exam webcam capture.",
+      "_id": {
+        "$oid": "6a191350564d7d8ca6e958a9"
+      },
+      "timestamp": {
+        "$date": "2026-05-29T04:17:20.273Z"
+      }
+    },
+    {
+      "type": "multiple_faces",
+      "description": "Multiple subjects detected within exam webcam capture.",
+      "_id": {
+        "$oid": "6a191352564d7d8ca6e958af"
+      },
+      "timestamp": {
+        "$date": "2026-05-29T04:17:22.321Z"
+      }
+    },
+    {
+      "type": "multiple_faces",
+      "description": "Multiple subjects detected within exam webcam capture.",
+      "_id": {
+        "$oid": "6a191354564d7d8ca6e958b6"
+      },
+      "timestamp": {
+        "$date": "2026-05-29T04:17:24.442Z"
+      }
+    },
+    {
+      "type": "multiple_faces",
+      "description": "Multiple subjects detected within exam webcam capture.",
+      "_id": {
+        "$oid": "6a19135d564d7d8ca6e958be"
+      },
+      "timestamp": {
+        "$date": "2026-05-29T04:17:33.464Z"
+      }
+    },
+    {
+      "type": "multiple_faces",
+      "description": "Multiple subjects detected within exam webcam capture.",
+      "_id": {
+        "$oid": "6a19135f564d7d8ca6e958c7"
+      },
+      "timestamp": {
+        "$date": "2026-05-29T04:17:35.711Z"
+      }
+    },
+    {
+      "type": "tab_switch",
+      "description": "Student navigated away from the exam application.",
+      "_id": {
+        "$oid": "6a191664564d7d8ca6e9599b"
+      },
+      "timestamp": {
+        "$date": "2026-05-29T04:30:28.896Z"
+      }
+    },
+    {
+      "type": "tab_switch",
+      "description": "Student navigated away from the exam application.",
+      "_id": {
+        "$oid": "6a1916cd564d7d8ca6e959f9"
+      },
+      "timestamp": {
+        "$date": "2026-05-29T04:32:13.481Z"
+      }
+    }
+  ],
+  "violationCount": 9,
+  "averageAttentionScore": 0,
+  "isFinished": false,
+  "createdAt": {
+    "$date": "2026-05-29T04:17:06.103Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-29T04:32:13.482Z"
+  },
+  "__v": 9
+},
+{
+  "_id": {
+    "$oid": "6a192a1db969257e4f3cc21d"
+  },
+  "student": {
+    "$oid": "6a192a15b969257e4f3cc20a"
+  },
+  "examTitle": "Advanced Macroeconomics IV",
+  "violations": [
+    {
+      "type": "tab_switch",
+      "description": "Student navigated away from the exam application.",
+      "_id": {
+        "$oid": "6a192af9b969257e4f3cc26e"
+      },
+      "timestamp": {
+        "$date": "2026-05-29T05:58:17.169Z"
+      }
+    }
+  ],
+  "violationCount": 1,
+  "averageAttentionScore": 82,
+  "isFinished": false,
+  "createdAt": {
+    "$date": "2026-05-29T05:54:37.668Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-29T05:58:17.172Z"
+  },
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "6a1a4a4961b8e8c9068c6b0c"
+  },
+  "student": {
+    "$oid": "6a1a49fc61b8e8c9068c6ad9"
+  },
+  "examTitle": "Advanced Macroeconomics IV",
+  "violations": [
+    {
+      "type": "looking_away",
+      "description": "High-precision eye tracker captured sight-line gaze look away.",
+      "_id": {
+        "$oid": "6a1a4a7861b8e8c9068c6b12"
+      },
+      "timestamp": {
+        "$date": "2026-05-30T02:24:56.410Z"
+      }
+    },
+    {
+      "type": "looking_away",
+      "description": "High-precision eye tracker captured sight-line gaze look away.",
+      "_id": {
+        "$oid": "6a1a4a8d61b8e8c9068c6b16"
+      },
+      "timestamp": {
+        "$date": "2026-05-30T02:25:17.658Z"
+      }
+    },
+    {
+      "type": "looking_away",
+      "description": "High-precision eye tracker captured sight-line gaze look away.",
+      "_id": {
+        "$oid": "6a1a4a9b61b8e8c9068c6b1b"
+      },
+      "timestamp": {
+        "$date": "2026-05-30T02:25:31.122Z"
+      }
+    },
+    {
+      "type": "looking_away",
+      "description": "High-precision eye tracker captured sight-line gaze look away.",
+      "_id": {
+        "$oid": "6a1a4aa061b8e8c9068c6b21"
+      },
+      "timestamp": {
+        "$date": "2026-05-30T02:25:36.384Z"
+      }
+    },
+    {
+      "type": "looking_away",
+      "description": "High-precision eye tracker captured sight-line gaze look away.",
+      "_id": {
+        "$oid": "6a1a4aa761b8e8c9068c6b28"
+      },
+      "timestamp": {
+        "$date": "2026-05-30T02:25:43.807Z"
+      }
+    },
+    {
+      "type": "tab_switch",
+      "description": "Student navigated away from the exam application.",
+      "_id": {
+        "$oid": "6a1a4aaa61b8e8c9068c6b30"
+      },
+      "timestamp": {
+        "$date": "2026-05-30T02:25:46.316Z"
+      }
+    },
+    {
+      "type": "looking_away",
+      "description": "High-precision eye tracker captured sight-line gaze look away.",
+      "_id": {
+        "$oid": "6a1a4bc761b8e8c9068c6b39"
+      },
+      "timestamp": {
+        "$date": "2026-05-30T02:30:31.880Z"
+      }
+    },
+    {
+      "type": "looking_away",
+      "description": "High-precision eye tracker captured sight-line gaze look away.",
+      "_id": {
+        "$oid": "6a1a4bca61b8e8c9068c6b43"
+      },
+      "timestamp": {
+        "$date": "2026-05-30T02:30:34.919Z"
+      }
+    },
+    {
+      "type": "looking_away",
+      "description": "High-precision eye tracker captured sight-line gaze look away.",
+      "_id": {
+        "$oid": "6a1a4bd261b8e8c9068c6b4e"
+      },
+      "timestamp": {
+        "$date": "2026-05-30T02:30:42.899Z"
+      }
+    },
+    {
+      "type": "looking_away",
+      "description": "High-precision eye tracker captured sight-line gaze look away.",
+      "_id": {
+        "$oid": "6a1a4bd561b8e8c9068c6b5a"
+      },
+      "timestamp": {
+        "$date": "2026-05-30T02:30:45.304Z"
+      }
+    },
+    {
+      "type": "looking_away",
+      "description": "High-precision eye tracker captured sight-line gaze look away.",
+      "_id": {
+        "$oid": "6a1a4bd961b8e8c9068c6b67"
+      },
+      "timestamp": {
+        "$date": "2026-05-30T02:30:49.821Z"
+      }
+    },
+    {
+      "type": "tab_switch",
+      "description": "Student navigated away from the exam application.",
+      "_id": {
+        "$oid": "6a1a4bdb61b8e8c9068c6b75"
+      },
+      "timestamp": {
+        "$date": "2026-05-30T02:30:51.647Z"
+      }
+    },
+    {
+      "type": "looking_away",
+      "description": "High-precision eye tracker captured sight-line gaze look away.",
+      "_id": {
+        "$oid": "6a1a4d0861b8e8c9068c6b84"
+      },
+      "timestamp": {
+        "$date": "2026-05-30T02:35:52.760Z"
+      }
+    },
+    {
+      "type": "looking_away",
+      "description": "High-precision eye tracker captured sight-line gaze look away.",
+      "_id": {
+        "$oid": "6a1a4eb461b8e8c9068c6c96"
+      },
+      "timestamp": {
+        "$date": "2026-05-30T02:43:00.103Z"
+      }
+    },
+    {
+      "type": "looking_away",
+      "description": "High-precision eye tracker captured sight-line gaze look away.",
+      "_id": {
+        "$oid": "6a1a4eb761b8e8c9068c6ca7"
+      },
+      "timestamp": {
+        "$date": "2026-05-30T02:43:03.878Z"
+      }
+    },
+    {
+      "type": "looking_away",
+      "description": "High-precision eye tracker captured sight-line gaze look away.",
+      "_id": {
+        "$oid": "6a1a4ebd61b8e8c9068c6cb9"
+      },
+      "timestamp": {
+        "$date": "2026-05-30T02:43:09.980Z"
+      }
+    },
+    {
+      "type": "looking_away",
+      "description": "High-precision eye tracker captured sight-line gaze look away.",
+      "_id": {
+        "$oid": "6a1a4eca61b8e8c9068c6ccc"
+      },
+      "timestamp": {
+        "$date": "2026-05-30T02:43:22.348Z"
+      }
+    },
+    {
+      "type": "looking_away",
+      "description": "High-precision eye tracker captured sight-line gaze look away.",
+      "_id": {
+        "$oid": "6a1a4f6461b8e8c9068c6d26"
+      },
+      "timestamp": {
+        "$date": "2026-05-30T02:45:56.759Z"
+      }
+    },
+    {
+      "type": "looking_away",
+      "description": "High-precision eye tracker captured sight-line gaze look away.",
+      "_id": {
+        "$oid": "6a1a500261b8e8c9068c6d3b"
+      },
+      "timestamp": {
+        "$date": "2026-05-30T02:48:34.139Z"
+      }
+    },
+    {
+      "type": "looking_away",
+      "description": "High-precision eye tracker captured sight-line gaze look away.",
+      "_id": {
+        "$oid": "6a1a500361b8e8c9068c6d51"
+      },
+      "timestamp": {
+        "$date": "2026-05-30T02:48:35.692Z"
+      }
+    },
+    {
+      "type": "looking_away",
+      "description": "High-precision eye tracker captured sight-line gaze look away.",
+      "_id": {
+        "$oid": "6a1a501c61b8e8c9068c6d96"
+      },
+      "timestamp": {
+        "$date": "2026-05-30T02:49:00.433Z"
+      }
+    },
+    {
+      "type": "tab_switch",
+      "description": "Student navigated away from the exam application.",
+      "_id": {
+        "$oid": "6a1a502261b8e8c9068c6dae"
+      },
+      "timestamp": {
+        "$date": "2026-05-30T02:49:06.362Z"
+      }
+    },
+    {
+      "type": "looking_away",
+      "description": "High-precision eye tracker captured sight-line gaze look away.",
+      "_id": {
+        "$oid": "6a1a52c961b8e8c9068c6e07"
+      },
+      "timestamp": {
+        "$date": "2026-05-30T03:00:25.170Z"
+      }
+    },
+    {
+      "type": "looking_away",
+      "description": "High-precision eye tracker captured sight-line gaze look away.",
+      "_id": {
+        "$oid": "6a1a535061b8e8c9068c6e3b"
+      },
+      "timestamp": {
+        "$date": "2026-05-30T03:02:40.778Z"
+      }
+    },
+    {
+      "type": "looking_away",
+      "description": "High-precision eye tracker captured sight-line gaze look away.",
+      "_id": {
+        "$oid": "6a1a535261b8e8c9068c6e56"
+      },
+      "timestamp": {
+        "$date": "2026-05-30T03:02:42.231Z"
+      }
+    },
+    {
+      "type": "looking_away",
+      "description": "High-precision eye tracker captured sight-line gaze look away.",
+      "_id": {
+        "$oid": "6a1a535761b8e8c9068c6e72"
+      },
+      "timestamp": {
+        "$date": "2026-05-30T03:02:47.036Z"
+      }
+    },
+    {
+      "type": "tab_switch",
+      "description": "Student navigated away from the exam application.",
+      "_id": {
+        "$oid": "6a1a535a61b8e8c9068c6e8f"
+      },
+      "timestamp": {
+        "$date": "2026-05-30T03:02:50.034Z"
+      }
+    },
+    {
+      "type": "looking_away",
+      "description": "High-precision eye tracker captured sight-line gaze look away.",
+      "_id": {
+        "$oid": "6a1a538d61b8e8c9068c6ee9"
+      },
+      "timestamp": {
+        "$date": "2026-05-30T03:03:41.093Z"
+      }
+    },
+    {
+      "type": "looking_away",
+      "description": "High-precision eye tracker captured sight-line gaze look away.",
+      "_id": {
+        "$oid": "6a1a539061b8e8c9068c6f08"
+      },
+      "timestamp": {
+        "$date": "2026-05-30T03:03:44.301Z"
+      }
+    }
+  ],
+  "violationCount": 29,
+  "averageAttentionScore": 0,
+  "isFinished": false,
+  "createdAt": {
+    "$date": "2026-05-30T02:24:09.592Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-30T03:03:44.305Z"
+  },
+  "__v": 29
+},
+{
+  "_id": {
+    "$oid": "6a1a53db3411a84012f8316c"
+  },
+  "student": {
+    "$oid": "6a1a53d63411a84012f83159"
+  },
+  "examTitle": "Advanced Macroeconomics IV",
+  "violations": [
+    {
+      "type": "looking_away",
+      "description": "High-precision eye tracker captured sight-line gaze look away.",
+      "_id": {
+        "$oid": "6a1a55873411a84012f8318a"
+      },
+      "timestamp": {
+        "$date": "2026-05-30T03:12:07.045Z"
+      }
+    },
+    {
+      "type": "looking_away",
+      "description": "High-precision eye tracker captured sight-line gaze look away.",
+      "_id": {
+        "$oid": "6a1a55873411a84012f8318e"
+      },
+      "timestamp": {
+        "$date": "2026-05-30T03:12:07.261Z"
+      }
+    },
+    {
+      "type": "looking_away",
+      "description": "High-precision eye tracker captured sight-line gaze look away.",
+      "_id": {
+        "$oid": "6a1a55873411a84012f83193"
+      },
+      "timestamp": {
+        "$date": "2026-05-30T03:12:07.521Z"
+      }
+    },
+    {
+      "type": "looking_away",
+      "description": "High-precision eye tracker captured sight-line gaze look away.",
+      "_id": {
+        "$oid": "6a1a55933411a84012f83199"
+      },
+      "timestamp": {
+        "$date": "2026-05-30T03:12:19.107Z"
+      }
+    },
+    {
+      "type": "looking_away",
+      "description": "High-precision eye tracker captured sight-line gaze look away.",
+      "_id": {
+        "$oid": "6a1a55933411a84012f831a0"
+      },
+      "timestamp": {
+        "$date": "2026-05-30T03:12:19.977Z"
+      }
+    },
+    {
+      "type": "tab_switch",
+      "description": "Student navigated away from the exam application.",
+      "_id": {
+        "$oid": "6a1a55953411a84012f831a8"
+      },
+      "timestamp": {
+        "$date": "2026-05-30T03:12:21.567Z"
+      }
+    },
+    {
+      "type": "tab_switch",
+      "description": "Student navigated away from the exam application.",
+      "_id": {
+        "$oid": "6a1a576b3411a84012f83219"
+      },
+      "timestamp": {
+        "$date": "2026-05-30T03:20:11.948Z"
+      }
+    },
+    {
+      "type": "tab_switch",
+      "description": "Student navigated away from the exam application.",
+      "_id": {
+        "$oid": "6a1a581c3411a84012f83223"
+      },
+      "timestamp": {
+        "$date": "2026-05-30T03:23:08.665Z"
+      }
+    },
+    {
+      "type": "looking_away",
+      "description": "High-precision eye tracker captured sight-line gaze look away.",
+      "_id": {
+        "$oid": "6a1a6b74e00062ab6c8b258a"
+      },
+      "timestamp": {
+        "$date": "2026-05-30T04:45:40.881Z"
+      }
+    },
+    {
+      "type": "looking_away",
+      "description": "High-precision eye tracker captured sight-line gaze look away.",
+      "_id": {
+        "$oid": "6a1a6b78e00062ab6c8b2596"
+      },
+      "timestamp": {
+        "$date": "2026-05-30T04:45:44.382Z"
+      }
+    },
+    {
+      "type": "looking_away",
+      "description": "High-precision eye tracker captured sight-line gaze look away.",
+      "_id": {
+        "$oid": "6a1a6b7be00062ab6c8b25a3"
+      },
+      "timestamp": {
+        "$date": "2026-05-30T04:45:47.349Z"
+      }
+    },
+    {
+      "type": "looking_away",
+      "description": "High-precision eye tracker captured sight-line gaze look away.",
+      "_id": {
+        "$oid": "6a1a6b7ce00062ab6c8b25b1"
+      },
+      "timestamp": {
+        "$date": "2026-05-30T04:45:48.688Z"
+      }
+    },
+    {
+      "type": "looking_away",
+      "description": "High-precision eye tracker captured sight-line gaze look away.",
+      "_id": {
+        "$oid": "6a1a6b7fe00062ab6c8b25c0"
+      },
+      "timestamp": {
+        "$date": "2026-05-30T04:45:51.186Z"
+      }
+    },
+    {
+      "type": "looking_away",
+      "description": "High-precision eye tracker captured sight-line gaze look away.",
+      "_id": {
+        "$oid": "6a1a6f21e00062ab6c8b262c"
+      },
+      "timestamp": {
+        "$date": "2026-05-30T05:01:21.779Z"
+      }
+    },
+    {
+      "type": "looking_away",
+      "description": "High-precision eye tracker captured sight-line gaze look away.",
+      "_id": {
+        "$oid": "6a1a6f2de00062ab6c8b263d"
+      },
+      "timestamp": {
+        "$date": "2026-05-30T05:01:33.510Z"
+      }
+    }
+  ],
+  "violationCount": 15,
+  "averageAttentionScore": 0,
+  "isFinished": false,
+  "createdAt": {
+    "$date": "2026-05-30T03:04:59.406Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-30T05:01:33.511Z"
+  },
+  "__v": 15
+},
+{
+  "_id": {
+    "$oid": "6a1a728ae00062ab6c8b2653"
+  },
+  "student": {
+    "$oid": "6a1a7287e00062ab6c8b2640"
+  },
+  "examTitle": "Advanced Macroeconomics IV",
+  "violations": [
+    {
+      "type": "tab_switch",
+      "description": "Student navigated away from the exam application.",
+      "_id": {
+        "$oid": "6a1a736ee00062ab6c8b2659"
+      },
+      "timestamp": {
+        "$date": "2026-05-30T05:19:42.651Z"
+      }
+    },
+    {
+      "type": "tab_switch",
+      "description": "Student navigated away from the exam application.",
+      "_id": {
+        "$oid": "6a1a73a1e00062ab6c8b265d"
+      },
+      "timestamp": {
+        "$date": "2026-05-30T05:20:33.325Z"
+      }
+    },
+    {
+      "type": "tab_switch",
+      "description": "Student navigated away from the exam application.",
+      "_id": {
+        "$oid": "6a1a73b2e00062ab6c8b267a"
+      },
+      "timestamp": {
+        "$date": "2026-05-30T05:20:50.184Z"
+      }
+    },
+    {
+      "type": "tab_switch",
+      "description": "Student navigated away from the exam application.",
+      "_id": {
+        "$oid": "6a1a7596e00062ab6c8b2680"
+      },
+      "timestamp": {
+        "$date": "2026-05-30T05:28:54.974Z"
+      }
+    },
+    {
+      "type": "tab_switch",
+      "description": "Student navigated away from the exam application.",
+      "_id": {
+        "$oid": "6a1a769ae00062ab6c8b2687"
+      },
+      "timestamp": {
+        "$date": "2026-05-30T05:33:14.614Z"
+      }
+    },
+    {
+      "type": "looking_away",
+      "description": "High-precision eye tracker captured sight-line gaze look away.",
+      "_id": {
+        "$oid": "6a1a771fe00062ab6c8b268f"
+      },
+      "timestamp": {
+        "$date": "2026-05-30T05:35:27.663Z"
+      }
+    },
+    {
+      "type": "looking_away",
+      "description": "High-precision eye tracker captured sight-line gaze look away.",
+      "_id": {
+        "$oid": "6a1a7724e00062ab6c8b2698"
+      },
+      "timestamp": {
+        "$date": "2026-05-30T05:35:32.734Z"
+      }
+    },
+    {
+      "type": "looking_away",
+      "description": "High-precision eye tracker captured sight-line gaze look away.",
+      "_id": {
+        "$oid": "6a1a7731e00062ab6c8b26a2"
+      },
+      "timestamp": {
+        "$date": "2026-05-30T05:35:45.883Z"
+      }
+    },
+    {
+      "type": "looking_away",
+      "description": "High-precision eye tracker captured sight-line gaze look away.",
+      "_id": {
+        "$oid": "6a1a7736e00062ab6c8b26ad"
+      },
+      "timestamp": {
+        "$date": "2026-05-30T05:35:50.715Z"
+      }
+    },
+    {
+      "type": "looking_away",
+      "description": "High-precision eye tracker captured sight-line gaze look away.",
+      "_id": {
+        "$oid": "6a1a7745e00062ab6c8b26b9"
+      },
+      "timestamp": {
+        "$date": "2026-05-30T05:36:05.539Z"
+      }
+    },
+    {
+      "type": "tab_switch",
+      "description": "Student navigated away from the exam application.",
+      "_id": {
+        "$oid": "6a1a77a7e00062ab6c8b26c6"
+      },
+      "timestamp": {
+        "$date": "2026-05-30T05:37:43.928Z"
+      }
+    },
+    {
+      "type": "looking_away",
+      "description": "High-precision eye tracker captured sight-line gaze look away.",
+      "_id": {
+        "$oid": "6a1a77dee00062ab6c8b26fe"
+      },
+      "timestamp": {
+        "$date": "2026-05-30T05:38:38.058Z"
+      }
+    },
+    {
+      "type": "looking_away",
+      "description": "High-precision eye tracker captured sight-line gaze look away.",
+      "_id": {
+        "$oid": "6a1a77eae00062ab6c8b270d"
+      },
+      "timestamp": {
+        "$date": "2026-05-30T05:38:50.145Z"
+      }
+    },
+    {
+      "type": "looking_away",
+      "description": "High-precision eye tracker captured sight-line gaze look away.",
+      "_id": {
+        "$oid": "6a1a77f0e00062ab6c8b271d"
+      },
+      "timestamp": {
+        "$date": "2026-05-30T05:38:56.636Z"
+      }
+    },
+    {
+      "type": "looking_away",
+      "description": "High-precision eye tracker captured sight-line gaze look away.",
+      "_id": {
+        "$oid": "6a1a77f6e00062ab6c8b272e"
+      },
+      "timestamp": {
+        "$date": "2026-05-30T05:39:02.339Z"
+      }
+    },
+    {
+      "type": "tab_switch",
+      "description": "Student navigated away from the exam application.",
+      "_id": {
+        "$oid": "6a1a792ce00062ab6c8b2740"
+      },
+      "timestamp": {
+        "$date": "2026-05-30T05:44:12.986Z"
+      }
+    },
+    {
+      "type": "tab_switch",
+      "description": "Student navigated away from the exam application.",
+      "_id": {
+        "$oid": "6a1a795de00062ab6c8b2753"
+      },
+      "timestamp": {
+        "$date": "2026-05-30T05:45:01.954Z"
+      }
+    },
+    {
+      "type": "tab_switch",
+      "description": "Student navigated away from the exam application.",
+      "_id": {
+        "$oid": "6a1a79b6e00062ab6c8b2767"
+      },
+      "timestamp": {
+        "$date": "2026-05-30T05:46:30.854Z"
+      }
+    },
+    {
+      "type": "looking_away",
+      "description": "High-precision eye tracker captured sight-line gaze look away.",
+      "_id": {
+        "$oid": "6a1a79fbe00062ab6c8b27a6"
+      },
+      "timestamp": {
+        "$date": "2026-05-30T05:47:39.889Z"
+      }
+    },
+    {
+      "type": "looking_away",
+      "description": "High-precision eye tracker captured sight-line gaze look away.",
+      "_id": {
+        "$oid": "6a1a7a04e00062ab6c8b27bc"
+      },
+      "timestamp": {
+        "$date": "2026-05-30T05:47:48.318Z"
+      }
+    },
+    {
+      "type": "looking_away",
+      "description": "High-precision eye tracker captured sight-line gaze look away.",
+      "_id": {
+        "$oid": "6a1a7a06e00062ab6c8b27d3"
+      },
+      "timestamp": {
+        "$date": "2026-05-30T05:47:50.489Z"
+      }
+    },
+    {
+      "type": "looking_away",
+      "description": "High-precision eye tracker captured sight-line gaze look away.",
+      "_id": {
+        "$oid": "6a1a7a0ce00062ab6c8b27eb"
+      },
+      "timestamp": {
+        "$date": "2026-05-30T05:47:56.965Z"
+      }
+    },
+    {
+      "type": "looking_away",
+      "description": "High-precision eye tracker captured sight-line gaze look away.",
+      "_id": {
+        "$oid": "6a1a7a0ee00062ab6c8b2804"
+      },
+      "timestamp": {
+        "$date": "2026-05-30T05:47:58.145Z"
+      }
+    },
+    {
+      "type": "looking_away",
+      "description": "High-precision eye tracker captured sight-line gaze look away.",
+      "_id": {
+        "$oid": "6a1a7a17e00062ab6c8b281e"
+      },
+      "timestamp": {
+        "$date": "2026-05-30T05:48:07.269Z"
+      }
+    },
+    {
+      "type": "looking_away",
+      "description": "High-precision eye tracker captured sight-line gaze look away.",
+      "_id": {
+        "$oid": "6a1a7a49e00062ab6c8b2839"
+      },
+      "timestamp": {
+        "$date": "2026-05-30T05:48:57.215Z"
+      }
+    },
+    {
+      "type": "looking_away",
+      "description": "High-precision eye tracker captured sight-line gaze look away.",
+      "_id": {
+        "$oid": "6a1a7a67e00062ab6c8b2871"
+      },
+      "timestamp": {
+        "$date": "2026-05-30T05:49:27.871Z"
+      }
+    },
+    {
+      "type": "looking_away",
+      "description": "High-precision eye tracker captured sight-line gaze look away.",
+      "_id": {
+        "$oid": "6a1a7a71e00062ab6c8b288e"
+      },
+      "timestamp": {
+        "$date": "2026-05-30T05:49:37.622Z"
+      }
+    },
+    {
+      "type": "looking_away",
+      "description": "High-precision eye tracker captured sight-line gaze look away.",
+      "_id": {
+        "$oid": "6a1a7a76e00062ab6c8b28ac"
+      },
+      "timestamp": {
+        "$date": "2026-05-30T05:49:42.911Z"
+      }
+    },
+    {
+      "type": "tab_switch",
+      "description": "Student navigated away from the exam application.",
+      "_id": {
+        "$oid": "6a1a7fafe00062ab6c8b2b8e"
+      },
+      "timestamp": {
+        "$date": "2026-05-30T06:11:59.517Z"
+      }
+    },
+    {
+      "type": "tab_switch",
+      "description": "Student navigated away from the exam application.",
+      "_id": {
+        "$oid": "6a1a7fbfe00062ab6c8b2bee"
+      },
+      "timestamp": {
+        "$date": "2026-05-30T06:12:15.402Z"
+      }
+    }
+  ],
+  "violationCount": 30,
+  "averageAttentionScore": 0,
+  "isFinished": false,
+  "createdAt": {
+    "$date": "2026-05-30T05:15:54.949Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-30T06:12:15.407Z"
+  },
+  "__v": 30
+},
+{
+  "_id": {
+    "$oid": "6a1d094802b58cbac079af4d"
+  },
+  "student": {
+    "$oid": "6a1d094202b58cbac079af3a"
+  },
+  "examTitle": "Advanced Macroeconomics IV",
+  "violations": [
+    {
+      "type": "looking_away",
+      "description": "High-precision eye tracker captured sight-line gaze look away.",
+      "_id": {
+        "$oid": "6a1d099802b58cbac079af53"
+      },
+      "timestamp": {
+        "$date": "2026-06-01T04:24:56.888Z"
+      }
+    },
+    {
+      "type": "looking_away",
+      "description": "High-precision eye tracker captured sight-line gaze look away.",
+      "_id": {
+        "$oid": "6a1d099902b58cbac079af57"
+      },
+      "timestamp": {
+        "$date": "2026-06-01T04:24:57.118Z"
+      }
+    },
+    {
+      "type": "looking_away",
+      "description": "High-precision eye tracker captured sight-line gaze look away.",
+      "_id": {
+        "$oid": "6a1d099902b58cbac079af5c"
+      },
+      "timestamp": {
+        "$date": "2026-06-01T04:24:57.339Z"
+      }
+    },
+    {
+      "type": "looking_away",
+      "description": "High-precision eye tracker captured sight-line gaze look away.",
+      "_id": {
+        "$oid": "6a1d09a202b58cbac079af62"
+      },
+      "timestamp": {
+        "$date": "2026-06-01T04:25:06.483Z"
+      }
+    },
+    {
+      "type": "looking_away",
+      "description": "High-precision eye tracker captured sight-line gaze look away.",
+      "_id": {
+        "$oid": "6a1d09a902b58cbac079af69"
+      },
+      "timestamp": {
+        "$date": "2026-06-01T04:25:13.745Z"
+      }
+    },
+    {
+      "type": "looking_away",
+      "description": "High-precision eye tracker captured sight-line gaze look away.",
+      "_id": {
+        "$oid": "6a1d09ae02b58cbac079af71"
+      },
+      "timestamp": {
+        "$date": "2026-06-01T04:25:18.969Z"
+      }
+    },
+    {
+      "type": "looking_away",
+      "description": "High-precision eye tracker captured sight-line gaze look away.",
+      "_id": {
+        "$oid": "6a1d09b902b58cbac079af7a"
+      },
+      "timestamp": {
+        "$date": "2026-06-01T04:25:29.619Z"
+      }
+    },
+    {
+      "type": "looking_away",
+      "description": "High-precision eye tracker captured sight-line gaze look away.",
+      "_id": {
+        "$oid": "6a1d09bb02b58cbac079af84"
+      },
+      "timestamp": {
+        "$date": "2026-06-01T04:25:31.235Z"
+      }
+    }
+  ],
+  "violationCount": 8,
+  "averageAttentionScore": 0,
+  "isFinished": false,
+  "createdAt": {
+    "$date": "2026-06-01T04:23:36.842Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-01T04:25:31.237Z"
+  },
+  "__v": 8
+},
+{
+  "_id": {
+    "$oid": "6a21beb1f315eca23450920b"
+  },
+  "student": {
+    "$oid": "6a21beadf315eca2345091f8"
+  },
+  "examTitle": "Advanced Macroeconomics IV",
+  "violations": [
+    {
+      "type": "looking_away",
+      "description": "High-precision eye tracker captured sight-line gaze look away.",
+      "_id": {
+        "$oid": "6a21beecf315eca234509211"
+      },
+      "timestamp": {
+        "$date": "2026-06-04T18:07:40.955Z"
+      }
+    },
+    {
+      "type": "looking_away",
+      "description": "High-precision eye tracker captured sight-line gaze look away.",
+      "_id": {
+        "$oid": "6a21beedf315eca234509215"
+      },
+      "timestamp": {
+        "$date": "2026-06-04T18:07:41.160Z"
+      }
+    },
+    {
+      "type": "looking_away",
+      "description": "High-precision eye tracker captured sight-line gaze look away.",
+      "_id": {
+        "$oid": "6a21beedf315eca23450921a"
+      },
+      "timestamp": {
+        "$date": "2026-06-04T18:07:41.360Z"
+      }
+    },
+    {
+      "type": "looking_away",
+      "description": "High-precision eye tracker captured sight-line gaze look away.",
+      "_id": {
+        "$oid": "6a21befdf315eca234509220"
+      },
+      "timestamp": {
+        "$date": "2026-06-04T18:07:57.673Z"
+      }
+    },
+    {
+      "type": "looking_away",
+      "description": "High-precision eye tracker captured sight-line gaze look away.",
+      "_id": {
+        "$oid": "6a21bf01f315eca234509227"
+      },
+      "timestamp": {
+        "$date": "2026-06-04T18:08:01.276Z"
+      }
+    },
+    {
+      "type": "looking_away",
+      "description": "High-precision eye tracker captured sight-line gaze look away.",
+      "_id": {
+        "$oid": "6a21bf05f315eca23450922f"
+      },
+      "timestamp": {
+        "$date": "2026-06-04T18:08:05.292Z"
+      }
+    },
+    {
+      "type": "looking_away",
+      "description": "High-precision eye tracker captured sight-line gaze look away.",
+      "_id": {
+        "$oid": "6a21bf0ef315eca234509238"
+      },
+      "timestamp": {
+        "$date": "2026-06-04T18:08:14.697Z"
+      }
+    },
+    {
+      "type": "looking_away",
+      "description": "High-precision eye tracker captured sight-line gaze look away.",
+      "_id": {
+        "$oid": "6a21bf14f315eca234509242"
+      },
+      "timestamp": {
+        "$date": "2026-06-04T18:08:20.222Z"
+      }
+    },
+    {
+      "type": "looking_away",
+      "description": "High-precision eye tracker captured sight-line gaze look away.",
+      "_id": {
+        "$oid": "6a21bf16f315eca23450924d"
+      },
+      "timestamp": {
+        "$date": "2026-06-04T18:08:22.044Z"
+      }
+    },
+    {
+      "type": "looking_away",
+      "description": "High-precision eye tracker captured sight-line gaze look away.",
+      "_id": {
+        "$oid": "6a21bf18f315eca234509267"
+      },
+      "timestamp": {
+        "$date": "2026-06-04T18:08:24.645Z"
+      }
+    }
+  ],
+  "violationCount": 10,
+  "averageAttentionScore": 0,
+  "isFinished": false,
+  "createdAt": {
+    "$date": "2026-06-04T18:06:41.690Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-04T18:08:24.646Z"
+  },
+  "__v": 10
+}]

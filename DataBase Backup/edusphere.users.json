@@ -1,0 +1,12 @@
+[{
+  "_id": {
+    "$oid": "6a21beadf315eca2345091f8"
+  },
+  "email": "shahjeet309@gmail.com",
+  "password": "$2b$10$2bAATcpgs0ciudaiBRdiOeGFlsX8FzRz4IkJ4.Rf/LNxnlW1SFWIy",
+  "role": "student",
+  "createdAt": {
+    "$date": "2026-06-04T18:06:37.023Z"
+  },
+  "__v": 0
+}]
