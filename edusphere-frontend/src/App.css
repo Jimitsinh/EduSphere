@@ -1,0 +1,624 @@
+/* EduSphere App Styles (Aligned with index.css cream theme) */
+
+:root {
+  /* Premium Academic Light Palette (Slightly Darker Sand) */
+  --bg: #F3EDE0; /* Slightly darker rich warm sand background */
+  --sidebar-bg: #E8DFCF; /* Warm distinct sand-beige sidebar */
+  --surface: #ffffff; /* Card Solid White */
+  --border: #DFD7C7; /* Distinct warm border */
+  --text-primary: #1a1a1a; /* Dark Charcoal text */
+  --text-muted: #7a7670; /* Muted warm-grey text */
+  
+  --primary-red: #FF5A4C; /* Bright coral red-orange */
+  --primary-red-hover: #E24C3E;
+  --accent-wood: #A07D60; /* Bright, rich wood brown */
+  --accent-gray: #7a7670; /* Gray accent */
+  
+  --font-display: 'Lora', 'Georgia', serif;
+  --font-body: 'Plus Jakarta Sans', 'Inter', sans-serif;
+  
+  --radius-lg: 12px;
+  --dur-1: 0.2s;
+  --dur-2: 0.3s;
+  --ease: cubic-bezier(0.25, 0.1, 0.25, 1);
+  
+  --shadow-card: 0 6px 20px rgba(122, 118, 110, 0.05);
+  --shadow-hover: 0 12px 30px rgba(122, 118, 110, 0.08);
+}
+
+/* Clear conflicting base overrides */
+.app-shell {
+  min-height: 100vh;
+  display: flex;
+  background: var(--bg);
+}
+
+.sidebar {
+  width: 250px;
+  background: var(--sidebar-bg);
+  border-right: 1px solid var(--border);
+  display: flex;
+  flex-direction: column;
+}
+
+.topbar {
+  height: 70px;
+  border-bottom: 1px solid var(--border);
+  background: var(--bg);
+}
+
+/* Keep card clean and white */
+.card {
+  background-color: var(--surface) !important;
+  border: 1px solid var(--border) !important;
+  border-radius: 12px !important;
+  padding: 24px !important;
+  box-shadow: var(--shadow-card) !important;
+  backdrop-filter: none !important;
+  -webkit-backdrop-filter: none !important;
+  color: var(--text-primary) !important;
+}
+
+.card:hover {
+  box-shadow: var(--shadow-hover) !important;
+  transform: translateY(-1px);
+}
+
+/* Safe Proctoring Styles (Clean light aesthetic) */
+.proctorShell {
+  min-height: 100vh;
+  background: var(--bg);
+  color: var(--text-primary);
+  display: flex;
+  flex-direction: column;
+}
+
+.proctorTop {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 16px 24px;
+  border-bottom: 1px solid var(--border);
+  background: var(--surface);
+}
+
+.proctorGrid {
+  display: grid;
+  grid-template-columns: 1fr 1.6fr;
+  gap: 24px;
+  padding: 32px;
+  max-width: 1200px;
+  margin: 0 auto;
+  width: 100%;
+}
+
+.videoFrame {
+  border-radius: 12px;
+  border: 1px solid var(--border);
+  overflow: hidden;
+  background: #1a1a1a;
+  position: relative;
+  aspect-ratio: 16/9;
+}
+
+.overlayPanel {
+  position: absolute;
+  left: 12px;
+  top: 12px;
+  right: 12px;
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.pill {
+  padding: 6px 12px;
+  border-radius: 999px;
+  background: rgba(0, 0, 0, 0.6);
+  color: #ffffff;
+  font-size: 11px;
+  font-weight: 700;
+}
+
+/* Auth / Login styling (Matching cream aesthetic) */
+.authShell {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 24px;
+  background-color: var(--bg);
+}
+
+.authCard {
+  width: 100%;
+  max-width: 420px;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  box-shadow: var(--shadow-hover);
+  padding: 40px;
+  color: var(--text-primary);
+}
+
+.authTitle {
+  font-family: var(--font-display);
+  font-size: 28px;
+  font-weight: 700;
+  margin-bottom: 24px;
+  text-align: center;
+}
+
+.login-input-wrapper {
+  position: relative;
+  margin-bottom: 16px;
+}
+
+.login-input {
+  width: 100%;
+  padding: 12px 16px;
+  border-radius: 4px;
+  border: 1px solid var(--border);
+  background: #ffffff;
+  color: var(--text-primary);
+  font-size: 14px;
+  outline: none;
+}
+
+.login-input:focus {
+  border-color: var(--primary-red);
+}
+
+.login-submit-btn {
+  width: 100%;
+  padding: 12px;
+  border-radius: 4px;
+  background: var(--primary-red);
+  color: #ffffff;
+  font-weight: 600;
+  font-size: 14px;
+  margin-top: 16px;
+  transition: background 0.2s;
+}
+
+.login-submit-btn:hover {
+  background-color: var(--primary-red-hover);
+}
+
+.login-toggle-container {
+  display: inline-flex;
+  background: #f6f3ed;
+  border-radius: 4px;
+  padding: 2px;
+  margin-bottom: 24px;
+  width: 100%;
+}
+
+.login-toggle-btn {
+  flex: 1;
+  padding: 8px;
+  font-size: 12px;
+  font-weight: 700;
+  border-radius: 3px;
+  color: var(--text-muted);
+  text-align: center;
+}
+
+.login-toggle-btn.active {
+  background: #ffffff;
+  color: var(--text-primary);
+  box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+}
+
+.login-divider {
+  display: flex;
+  align-items: center;
+  text-align: center;
+  margin: 24px 0;
+  color: var(--text-muted);
+  font-size: 11px;
+  font-weight: 600;
+}
+
+.login-divider::before,
+.login-divider::after {
+  content: '';
+  flex: 1;
+  border-bottom: 1px solid var(--border);
+}
+
+.login-divider span {
+  padding: 0 12px;
+}
+
+.login-socials {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12px;
+}
+
+.social-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px;
+  background: #ffffff;
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  font-size: 12px;
+  font-weight: 600;
+}
+
+.social-btn:hover {
+  background: #f6f3ed;
+}
+
+.login-terms {
+  text-align: center;
+  color: var(--text-muted);
+  font-size: 11px;
+  margin-top: 24px;
+}
+
+/* Active Proctoring Screen Alignment */
+.proctor-layout {
+  height: 100vh;
+  overflow: hidden;
+  background-color: var(--bg);
+  color: var(--text-primary);
+  display: flex;
+  flex-direction: column;
+}
+
+.proctor-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 16px 40px;
+  border-bottom: 1px solid var(--border);
+  background-color: var(--surface);
+  height: 70px;
+}
+
+.proctor-header .brand-logo {
+  font-family: var(--font-display);
+  font-weight: 700;
+  font-size: 20px;
+  color: var(--text-primary);
+}
+
+.proctor-content-grid {
+  display: grid;
+  grid-template-columns: 340px 1fr;
+  gap: 32px;
+  padding: 32px 40px;
+  max-width: 1500px;
+  margin: 0 auto;
+  width: 100%;
+  height: calc(100vh - 70px);
+  overflow: hidden;
+  align-items: stretch;
+}
+
+.proctor-left {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  height: 100%;
+}
+
+.proctor-right {
+  display: flex;
+  flex-direction: column;
+  padding: 32px !important;
+  height: 100%;
+  overflow-y: auto;
+}
+
+/* Helper Utilities inside Proctoring */
+.badge-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 6px 12px;
+  border-radius: 20px;
+  font-size: 11px;
+  font-weight: 700;
+  background-color: rgba(0, 0, 0, 0.03);
+  color: var(--text-muted);
+}
+
+.badge-pill.bg-surface {
+  background-color: var(--surface);
+}
+
+.badge-pill.border {
+  border: 1px solid var(--border);
+}
+
+.status-bar {
+  padding: 20px !important;
+}
+
+.progress-bar-bg {
+  height: 6px;
+  background-color: rgba(0, 0, 0, 0.05);
+  border-radius: 3px;
+  overflow: hidden;
+}
+
+.progress-bar-fill {
+  height: 100%;
+  border-radius: 3px;
+  transition: width 0.3s ease;
+}
+
+.progress-bar-fill.bg-accent {
+  background-color: var(--primary-red);
+}
+
+.progress-bar-fill.bg-danger {
+  background-color: var(--primary-red);
+}
+
+.text-success {
+  color: #27ae60;
+}
+
+.text-danger {
+  color: var(--primary-red);
+}
+
+.text-warning {
+  color: #d35400;
+}
+
+.badge-sm {
+  padding: 4px 8px;
+  border-radius: 4px;
+  font-size: 10px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.bg-primary-light {
+  background-color: rgba(184, 50, 50, 0.08);
+  color: var(--primary-red);
+}
+
+.input-label {
+  display: block;
+  font-size: 9px;
+  font-weight: 700;
+  color: var(--text-muted);
+  letter-spacing: 0.05em;
+  margin-bottom: 8px;
+  text-transform: uppercase;
+}
+
+.input-field {
+  width: 100%;
+  padding: 16px;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  font-size: 13px;
+  color: var(--text-primary);
+  background-color: #ffffff;
+  resize: vertical;
+  line-height: 1.6;
+  outline: none;
+}
+
+.input-field:focus {
+  border-color: var(--primary-red);
+}
+
+.btn-primary {
+  background-color: var(--primary-red);
+  color: #ffffff;
+  padding: 10px 20px;
+  border-radius: 6px;
+  font-weight: 600;
+  font-size: 13px;
+  transition: all 0.2s ease;
+}
+
+.btn-primary:hover {
+  background-color: var(--primary-red-hover);
+  transform: translateY(-1px);
+}
+
+.btn-primary:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+  transform: none;
+}
+
+.btn-secondary {
+  border: 1px solid var(--primary-red);
+  color: var(--primary-red);
+  background-color: #ffffff;
+  padding: 10px 20px;
+  border-radius: 6px;
+  font-weight: 600;
+  font-size: 13px;
+  transition: all 0.2s ease;
+}
+
+.btn-secondary:hover {
+  background-color: rgba(232, 99, 88, 0.04);
+  border-color: var(--primary-red);
+}
+
+/* Premium Dashboard Visual Classes */
+.contribution-grid {
+  display: grid;
+  grid-template-columns: repeat(14, 1fr);
+  gap: 4px;
+}
+
+.contribution-dot {
+  aspect-ratio: 1;
+  border-radius: 2px;
+  background-color: var(--border);
+  transition: all 0.2s ease;
+}
+
+.contribution-dot:hover {
+  transform: scale(1.3);
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.15);
+}
+
+.waveform-container {
+  display: flex;
+  align-items: flex-end;
+  gap: 3px;
+  height: 24px;
+}
+
+.waveform-bar {
+  width: 3px;
+  background-color: var(--primary-red);
+  border-radius: 1px;
+  animation: bounceWaveform 0.8s ease-in-out infinite alternate;
+}
+
+@keyframes bounceWaveform {
+  0% { height: 4px; }
+  100% { height: 20px; }
+}
+
+.gradient-card-blue {
+  background: linear-gradient(135deg, #ffffff 0%, #f0f7ff 100%) !important;
+  border: 1px solid #d0e7ff !important;
+}
+
+.gradient-card-green {
+  background: linear-gradient(135deg, #ffffff 0%, #f4fdf8 100%) !important;
+  border: 1px solid #c2eed5 !important;
+}
+
+.chart-bar {
+  width: 100%;
+  background-color: var(--border);
+  border-radius: 4px 4px 0 0;
+  position: relative;
+  transition: all 0.4s cubic-bezier(0.25, 0.8, 0.25, 1);
+  cursor: pointer;
+}
+
+.chart-bar:hover {
+  background-color: var(--primary-red) !important;
+  transform: translateY(-2px);
+}
+
+.chart-bar-tooltip {
+  position: absolute;
+  bottom: 100%;
+  left: 50%;
+  transform: translateX(-50%) translateY(-6px);
+  background: #1a1a1a;
+  color: #ffffff;
+  padding: 4px 8px;
+  border-radius: 4px;
+  font-size: 10px;
+  font-weight: 700;
+  opacity: 0;
+  visibility: hidden;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  pointer-events: none;
+  z-index: 10;
+}
+
+.chart-bar:hover .chart-bar-tooltip {
+  opacity: 1;
+  visibility: visible;
+}
+
+/* Flashcard 3D Flip Effects (Full Page Redesign) */
+.flashcard-container {
+  perspective: 1200px;
+  width: 100%;
+  max-width: 100%;
+  height: 440px;
+  margin: 0 auto;
+  cursor: pointer;
+}
+
+.flashcard-inner {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  text-align: left;
+  transition: transform 0.6s cubic-bezier(0.4, 0, 0.2, 1);
+  transform-style: preserve-3d;
+}
+
+.flashcard-container.flipped .flashcard-inner {
+  transform: rotateY(180deg);
+}
+
+.flashcard-front, .flashcard-back {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  backface-visibility: hidden;
+  border-radius: 16px;
+  border: 1px solid var(--border);
+  background: #ffffff;
+  padding: 44px 52px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  box-shadow: 0 12px 36px rgba(0,0,0,0.06);
+}
+
+.flashcard-back {
+  transform: rotateY(180deg);
+  background: #FAF6EE;
+  border-color: var(--primary-red);
+}
+
+/* Academic Certificate Frame */
+.certificate-frame {
+  border: 8px solid #3A3228;
+  outline: 2px solid #D4AF37;
+  outline-offset: -12px;
+  background: #FFFDF9;
+  padding: 48px;
+  border-radius: 4px;
+  position: relative;
+  box-shadow: 0 16px 40px rgba(0,0,0,0.12);
+}
+
+.certificate-seal {
+  width: 72px;
+  height: 72px;
+  border-radius: 50%;
+  background: linear-gradient(135deg, #F0C419 0%, #D4AF37 50%, #AA7C11 100%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #ffffff;
+  box-shadow: 0 4px 12px rgba(212, 175, 55, 0.4);
+}
+
+/* Code IDE Terminal */
+.code-ide-editor {
+  font-family: 'Fira Code', 'Courier New', monospace;
+  background-color: #1a1a1c;
+  color: #00E5A0;
+  border-radius: 8px;
+  padding: 16px;
+  font-size: 13px;
+  line-height: 1.6;
+}
+
+/* Custom Range Slider */
+.target-grade-slider {
+  accent-color: var(--primary-red);
+  width: 100%;
+  height: 6px;
+  cursor: pointer;
+}
